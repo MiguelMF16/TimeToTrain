@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "389436836327",
+    "firebase_url": "https://timetotrain-f0ab3.firebaseio.com",
+    "project_id": "timetotrain-f0ab3",
+    "storage_bucket": "timetotrain-f0ab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389436836327:android:708d6d7ad0d8cc8e359542",
+        "android_client_info": {
+          "package_name": "com.example.timetotrain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389436836327-fhgsg2ai549ce6d5anvi3pbceanllppa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timetotrain",
+            "certificate_hash": "a94c8c78b69833ad327ebd1271ec2381e945fce3"
+          }
+        },
+        {
+          "client_id": "389436836327-p3kfft78r5u5d5c45v7of6q79jpd3ltd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApvIhHofLxznsfbzaJWBY0N2nZQgltF60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389436836327-p3kfft78r5u5d5c45v7of6q79jpd3ltd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
