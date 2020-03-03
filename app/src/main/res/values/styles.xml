@@ -13,4 +13,12 @@
 
     </style>
 
+    <style name="whitetext">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textColorHint">#FFFFFFF</item>
+
+
+
+    </style>
+
 </resources>

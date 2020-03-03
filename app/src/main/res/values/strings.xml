@@ -5,4 +5,7 @@
     <string name="aboutus">Sobre Nosotros</string>
     <string name="aboutusmessage">Bienvenidos a Time To Train la app que te permite entrenar conceptos de juego en base a distintas estrategias comprobadas por cientos de coachs.
     Vs: 1.0</string>
+
+    <string name="trainantiganks">Entrenamiento AntiGanks</string>
+    <string name="vision">Entenamiento de Wards</string>
 </resources>

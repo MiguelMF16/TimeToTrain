@@ -5,4 +5,21 @@
     android:background="@drawable/lolbackground1"
     >
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/trainantiganks" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/vision" />
+
+    <Button
+        android:id="@+id/btnestadisticas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Registrar estadisticas" />
 </LinearLayout>
