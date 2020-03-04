@@ -647,6 +647,8 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable botoncallofduty
 drawable botonlol
+drawable btnlol
+drawable btnlol2
 drawable callofduty
 drawable callofduty2
 drawable cerebro
@@ -676,8 +678,7 @@ drawable googleg_standard_color_18
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable lolbackground1
-drawable lolbtn
-drawable lolbtn2
+drawable lolestadisticasbackground
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -730,13 +731,14 @@ id auto
 id barrier
 id beginning
 id blocking
+id botoncallofdutty
 id bottom
+id btnantiganks
+id btnestadisticas
 id btnlogin
 id btnlol
 id btnregistro
-id button4
-id button5
-id button6
+id btnwards
 id buttonPanel
 id cargalogin
 id center
@@ -758,6 +760,11 @@ id default_activity_button
 id dimensions
 id direct
 id disableHome
+id editText
+id editText2
+id editText3
+id editText4
+id editText5
 id edit_query
 id end
 id expand_activities_button
@@ -846,6 +853,13 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textView
+id textView4
+id textView5
+id textView6
+id textView7
+id textkills
+id textkills2
+id textoexplicativo
 id time
 id title
 id titleDividerNoCustom
@@ -857,6 +871,7 @@ id txtpassword
 id uniform
 id up
 id useLogo
+id videoWard
 id wide
 id withText
 id wrap
@@ -895,9 +910,11 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_lol__training__selection
+layout activity_lol_estadisticas
 layout activity_main
 layout activity_training_menu1
-layout leagueoflegends1
+layout activity_wards__training
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -911,6 +928,7 @@ layout support_simple_spinner_dropdown_item
 menu actionbar
 mipmap ic_launcher
 mipmap ic_launcher_round
+raw prueba
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -982,7 +1000,9 @@ string project_id
 string search_menu_title
 string status_bar_notification_info_overflow
 string title
+string trainantiganks
 string training
+string vision
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
@@ -1331,6 +1351,7 @@ style Widget_AppCompat_Toolbar_Button_Navigation
 style Widget_Compat_NotificationActionContainer
 style Widget_Compat_NotificationActionText
 style Widget_Support_CoordinatorLayout
+style whitetext
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth
