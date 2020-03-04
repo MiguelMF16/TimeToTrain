@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\TimeToTrain\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
+            "outputFile": "D:\\proyectosgit\\TimeToTrain\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Susi\\.gradle\\caches\\transforms-2\\files-2.1\\da3be2ddcc0517ca0139996c7f84b4bc\\appcompat-1.0.2\\res\\values-ur\\values-ur.xml",

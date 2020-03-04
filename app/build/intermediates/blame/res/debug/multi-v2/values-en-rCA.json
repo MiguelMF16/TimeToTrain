@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\TimeToTrain\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+            "outputFile": "D:\\proyectosgit\\TimeToTrain\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Susi\\.gradle\\caches\\transforms-2\\files-2.1\\2d42ef9e774e9ee6e52a44ee4b2740f7\\core-1.0.1\\res\\values-en-rCA\\values-en-rCA.xml",

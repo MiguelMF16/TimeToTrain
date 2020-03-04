@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\TimeToTrain\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo\\values-lo.xml",
+            "outputFile": "D:\\proyectosgit\\TimeToTrain\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo\\values-lo.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Susi\\.gradle\\caches\\transforms-2\\files-2.1\\85b588a6d54ce7dc82936f030155741d\\jetified-play-services-basement-17.0.0\\res\\values-lo\\values.xml",

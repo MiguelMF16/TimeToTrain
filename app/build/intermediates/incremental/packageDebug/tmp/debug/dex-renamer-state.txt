@@ -1,4 +1,4 @@
-#Thu Feb 20 09:40:36 CET 2020
-base.0=D\:\\TimeToTrain\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Wed Mar 04 13:41:01 CET 2020
+base.0=D\:\\proyectosgit\\TimeToTrain\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

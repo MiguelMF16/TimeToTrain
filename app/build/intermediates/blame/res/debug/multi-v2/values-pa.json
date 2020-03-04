@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\TimeToTrain\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
+            "outputFile": "D:\\proyectosgit\\TimeToTrain\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Susi\\.gradle\\caches\\transforms-2\\files-2.1\\3d429ad93701397c0f3effdd7e40158e\\play-services-base-17.0.0\\res\\values-pa\\values.xml",
