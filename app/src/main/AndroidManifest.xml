@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".lol_estadisticas"></activity>
+        <activity android:name=".Wards_Training"></activity>
+        <activity android:name=".Lol_Training_Selection" />
+        <activity android:name=".Lol_Estadisticas" />
         <activity android:name=".TrainingMenu1" />
         <activity android:name=".MainActivity">
             <intent-filter>
