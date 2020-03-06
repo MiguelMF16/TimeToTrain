@@ -691,6 +691,9 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable pause
+drawable play
+drawable rewind
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 font font
@@ -737,7 +740,9 @@ id btnantiganks
 id btnestadisticas
 id btnlogin
 id btnlol
+id btnplay
 id btnregistro
+id btnrewind
 id btnwards
 id buttonPanel
 id cargalogin
@@ -912,9 +917,11 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_lol__training__selection
 layout activity_lol_estadisticas
+layout activity_lol_training_selection
 layout activity_main
 layout activity_training_menu1
 layout activity_wards__training
+layout activity_wards_training
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big

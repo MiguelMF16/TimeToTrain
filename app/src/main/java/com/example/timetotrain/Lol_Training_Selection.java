@@ -12,7 +12,7 @@ public class Lol_Training_Selection extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_lol__training__selection);
+        setContentView(R.layout.activity_lol_training_selection);
         btnwards = findViewById(R.id.btnwards);
         btnwards.setOnClickListener(new View.OnClickListener() {
             @Override
