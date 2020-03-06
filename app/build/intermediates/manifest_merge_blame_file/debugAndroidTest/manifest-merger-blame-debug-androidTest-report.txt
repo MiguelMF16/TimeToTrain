@@ -3,6 +3,7 @@
 3    package="com.example.timetotrain.test" >
 4
 5    <uses-sdk
+<<<<<<< HEAD
 5-->E:\ProyectoGit\TimeToTrain\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5086817210072383753.xml:5:5-74
 6        android:minSdkVersion="19"
 6-->E:\ProyectoGit\TimeToTrain\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5086817210072383753.xml:5:15-41
@@ -28,6 +29,33 @@
 17        <uses-library android:name="android.test.runner" />
 17-->E:\ProyectoGit\TimeToTrain\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5086817210072383753.xml:8:9-60
 17-->E:\ProyectoGit\TimeToTrain\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5086817210072383753.xml:8:23-57
+=======
+5-->D:\proyectosgit\Nueva carpeta\TimeToTrain\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger839467977280414994.xml:5:5-74
+6        android:minSdkVersion="19"
+6-->D:\proyectosgit\Nueva carpeta\TimeToTrain\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger839467977280414994.xml:5:15-41
+7        android:targetSdkVersion="29" />
+7-->D:\proyectosgit\Nueva carpeta\TimeToTrain\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger839467977280414994.xml:5:42-71
+8
+9    <instrumentation
+9-->D:\proyectosgit\Nueva carpeta\TimeToTrain\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger839467977280414994.xml:11:5-15:73
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->D:\proyectosgit\Nueva carpeta\TimeToTrain\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger839467977280414994.xml:11:22-76
+11        android:functionalTest="false"
+11-->D:\proyectosgit\Nueva carpeta\TimeToTrain\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger839467977280414994.xml:14:22-52
+12        android:handleProfiling="false"
+12-->D:\proyectosgit\Nueva carpeta\TimeToTrain\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger839467977280414994.xml:13:22-53
+13        android:label="Tests for com.example.timetotrain"
+13-->D:\proyectosgit\Nueva carpeta\TimeToTrain\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger839467977280414994.xml:15:22-71
+14        android:targetPackage="com.example.timetotrain" />
+14-->D:\proyectosgit\Nueva carpeta\TimeToTrain\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger839467977280414994.xml:12:22-69
+15
+16    <application android:debuggable="true" >
+16-->D:\proyectosgit\Nueva carpeta\TimeToTrain\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger839467977280414994.xml:7:5-9:19
+16-->D:\proyectosgit\Nueva carpeta\TimeToTrain\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger839467977280414994.xml:7:18-43
+17        <uses-library android:name="android.test.runner" />
+17-->D:\proyectosgit\Nueva carpeta\TimeToTrain\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger839467977280414994.xml:8:9-60
+17-->D:\proyectosgit\Nueva carpeta\TimeToTrain\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger839467977280414994.xml:8:23-57
+>>>>>>> miguel
 18    </application>
 19
 20</manifest>

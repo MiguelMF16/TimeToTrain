@@ -1,7 +1,11 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "E:\\ProyectoGit\\TimeToTrain\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+=======
+            "outputFile": "D:\\proyectosgit\\TimeToTrain\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+>>>>>>> miguel
             "map": [
                 {
                     "source": "C:\\Users\\migue\\.gradle\\caches\\transforms-2\\files-2.1\\66767690d83e34f0040150ba871188c1\\play-services-auth-17.0.0\\res\\values-watch-v20\\values.xml",

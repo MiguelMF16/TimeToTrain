@@ -1,7 +1,11 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "E:\\ProyectoGit\\TimeToTrain\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uz\\values-uz.xml",
+=======
+            "outputFile": "D:\\proyectosgit\\TimeToTrain\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uz\\values-uz.xml",
+>>>>>>> miguel
             "map": [
                 {
                     "source": "C:\\Users\\migue\\.gradle\\caches\\transforms-2\\files-2.1\\3d429ad93701397c0f3effdd7e40158e\\play-services-base-17.0.0\\res\\values-uz\\values.xml",

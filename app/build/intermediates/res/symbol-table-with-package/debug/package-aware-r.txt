@@ -691,6 +691,9 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable pause
+drawable play
+drawable rewind
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 font font
@@ -733,12 +736,22 @@ id beginning
 id blocking
 id botoncallofdutty
 id bottom
+<<<<<<< HEAD
+=======
+id btnantiganks
+>>>>>>> miguel
 id btnestadisticas
 id btnlogin
 id btnlol
+id btnplay
 id btnregistro
+<<<<<<< HEAD
 id button
 id button2
+=======
+id btnrewind
+id btnwards
+>>>>>>> miguel
 id buttonPanel
 id cargalogin
 id center
@@ -871,6 +884,7 @@ id txtpassword
 id uniform
 id up
 id useLogo
+id videoWard
 id wide
 id withText
 id wrap
@@ -909,10 +923,17 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+<<<<<<< HEAD
 layout activity_lol_estadisticas
+=======
+layout activity_lol__training__selection
+layout activity_lol_estadisticas
+layout activity_lol_training_selection
+>>>>>>> miguel
 layout activity_main
 layout activity_training_menu1
-layout leagueoflegends1
+layout activity_wards__training
+layout activity_wards_training
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -926,6 +947,7 @@ layout support_simple_spinner_dropdown_item
 menu actionbar
 mipmap ic_launcher
 mipmap ic_launcher_round
+raw prueba
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

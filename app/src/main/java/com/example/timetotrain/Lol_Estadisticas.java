@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 
-public class lol_estadisticas extends AppCompatActivity {
+public class Lol_Estadisticas extends AppCompatActivity {
 
 
     @Override

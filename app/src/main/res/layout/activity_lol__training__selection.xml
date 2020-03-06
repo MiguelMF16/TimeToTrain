@@ -6,13 +6,13 @@
     >
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnantiganks"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/trainantiganks" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/btnwards"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/vision" />

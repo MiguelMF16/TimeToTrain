@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #Wed Mar 04 21:52:35 CET 2020
 base.0=E\:\\ProyectoGit\\TimeToTrain\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+=======
+#Fri Mar 06 11:37:12 CET 2020
+base.0=D\:\\proyectosgit\\TimeToTrain\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+>>>>>>> miguel
 path.0=classes.dex
 renamed.0=classes.dex

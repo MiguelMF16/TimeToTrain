@@ -25,7 +25,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.timetotrain.lol_estadisticas" />
+        <activity android:name="com.example.timetotrain.Wards_Training" />
+        <activity android:name="com.example.timetotrain.Lol_Training_Selection" />
+        <activity android:name="com.example.timetotrain.Lol_Estadisticas" />
         <activity android:name="com.example.timetotrain.TrainingMenu1" />
         <activity android:name="com.example.timetotrain.MainActivity" >
             <intent-filter>

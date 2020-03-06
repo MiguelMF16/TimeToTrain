@@ -1,7 +1,11 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "E:\\ProyectoGit\\TimeToTrain\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
+=======
+            "outputFile": "D:\\proyectosgit\\TimeToTrain\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
+>>>>>>> miguel
             "map": [
                 {
                     "source": "C:\\Users\\migue\\.gradle\\caches\\transforms-2\\files-2.1\\da3be2ddcc0517ca0139996c7f84b4bc\\appcompat-1.0.2\\res\\values-v25\\values-v25.xml",
