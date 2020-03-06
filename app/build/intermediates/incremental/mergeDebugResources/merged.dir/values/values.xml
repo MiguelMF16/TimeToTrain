@@ -1897,14 +1897,9 @@
         <item name="statusBarBackground">#000000</item>
     </style>
     <style name="whitetext">
-<<<<<<< HEAD
-        <item name="android:textColor">#FFFFFF</item>
-        <item name="android:textColorHint">#FFFFFF</item>
-=======
         <item name="android:textColor">#ffffff</item>
         <item name="android:textColorHint">#ffffff</item>
 
->>>>>>> miguel
 
 
 

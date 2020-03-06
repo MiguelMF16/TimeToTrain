@@ -736,22 +736,14 @@ id beginning
 id blocking
 id botoncallofdutty
 id bottom
-<<<<<<< HEAD
-=======
 id btnantiganks
->>>>>>> miguel
 id btnestadisticas
 id btnlogin
 id btnlol
 id btnplay
 id btnregistro
-<<<<<<< HEAD
-id button
-id button2
-=======
 id btnrewind
 id btnwards
->>>>>>> miguel
 id buttonPanel
 id cargalogin
 id center
@@ -923,13 +915,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-<<<<<<< HEAD
-layout activity_lol_estadisticas
-=======
 layout activity_lol__training__selection
 layout activity_lol_estadisticas
 layout activity_lol_training_selection
->>>>>>> miguel
 layout activity_main
 layout activity_training_menu1
 layout activity_wards__training

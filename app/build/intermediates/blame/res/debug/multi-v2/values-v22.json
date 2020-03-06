@@ -1,14 +1,10 @@
 {
     "logs": [
         {
-<<<<<<< HEAD
-            "outputFile": "E:\\ProyectoGit\\TimeToTrain\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
-=======
             "outputFile": "D:\\proyectosgit\\TimeToTrain\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
->>>>>>> miguel
             "map": [
                 {
-                    "source": "C:\\Users\\migue\\.gradle\\caches\\transforms-2\\files-2.1\\da3be2ddcc0517ca0139996c7f84b4bc\\appcompat-1.0.2\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\Susi\\.gradle\\caches\\transforms-2\\files-2.1\\da3be2ddcc0517ca0139996c7f84b4bc\\appcompat-1.0.2\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",
